@@ -1,0 +1,26 @@
+
+
+h1 {
+    animation: alerta 3s infinite alternate-reverse;
+}
+
+img {
+    
+    transform: translate(100px);
+    
+}
+
+@keyframes alerta {
+    0% {
+color: black;
+    }
+
+    100% {
+        color: red;
+    }
+}
+
+@keyframes flutuar {
+    
+}
+
